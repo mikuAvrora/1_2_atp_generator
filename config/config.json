@@ -1,0 +1,7 @@
+{
+    "title": "АТП АВР для письма заказчику",
+    "show_errors_window": false,
+    "show_warning": false,
+    "there_should_be_an_smeta_if_there_is_this_text": "согласно сметного расчета в приложении",
+    "with_service": true
+}
